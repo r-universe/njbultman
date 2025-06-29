@@ -5,6 +5,3 @@
 [submodule "charlesschwabapi"]
 	path = charlesschwabapi
 	url = https://github.com/njbultman/charlesschwabapi
-[submodule "sleeperapi"]
-	path = sleeperapi
-	url = https://github.com/njbultman/sleeperapi
